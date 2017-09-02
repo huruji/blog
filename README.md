@@ -2,6 +2,7 @@
 ### 2017-09
 [Webpack系列——快速入门](https://github.com/huruji/blog/issues/3)
 
+[Android布局笔记(未完待续)](https://github.com/huruji/blog/issues/4)
 
 ### 2017-08
 [动手实现一个最简单的redux](https://github.com/huruji/blog/issues/1)
