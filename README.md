@@ -4,6 +4,8 @@
 
 [Android布局笔记(未完待续)](https://github.com/huruji/blog/issues/4)
 
+[Android布局练习—计算器](https://github.com/huruji/blog/issues/5)
+
 ### 2017-08
 [动手实现一个最简单的redux](https://github.com/huruji/blog/issues/1)
 
