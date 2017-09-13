@@ -4,7 +4,7 @@
 
 [Webpack系列——Webpack + xxx配合使用](https://github.com/huruji/blog/issues/7)
 
-[Webpack系列——使用Webpack搭建简易的React开发环境(未完)](https://github.com/huruji/blog/issues/8)
+[Webpack系列——手把手教你使用Webpack搭建简易的React开发环境](https://github.com/huruji/blog/issues/8)
 
 [Android布局笔记(未完待续)](https://github.com/huruji/blog/issues/4)
 
