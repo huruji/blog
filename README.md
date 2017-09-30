@@ -8,6 +8,8 @@
 
 [Webpack系列——手把手教你使用Webpack搭建简易的React开发环境](https://github.com/huruji/blog/issues/8)
 
+[Webpack系列——关于Webpack-dev-server配置的点点滴滴](https://github.com/huruji/blog/issues/10)
+
 [Android布局笔记(未完待续)](https://github.com/huruji/blog/issues/4)
 
 [Android布局练习—计算器](https://github.com/huruji/blog/issues/5)
