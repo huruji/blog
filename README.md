@@ -8,6 +8,8 @@
 
 [Node.js的进程process ](https://github.com/huruji/blog/issues/14)
 
+[Node.js开发多进程应用 ](https://github.com/huruji/blog/issues/15)
+
 ### 2017-09
 [动手实现一个JSONP](https://github.com/huruji/blog/issues/9)
 
