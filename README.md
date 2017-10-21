@@ -4,7 +4,7 @@
 ### 2017-10
 [使用Koa + mysql一小时搭建个人博客](https://github.com/huruji/blog/issues/11)
 
-[动手实现一个AMD模块加载器(未完待续)](https://github.com/huruji/blog/issues/13)
+[动手实现一个AMD模块加载器(一)](https://github.com/huruji/blog/issues/13)
 
 [Node.js的进程process ](https://github.com/huruji/blog/issues/14)
 
