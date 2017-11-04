@@ -1,6 +1,9 @@
 # 忽如寄的技术部落格
 如果你对我的博客文章感兴趣，或许你也会喜欢我以前写过的文章，你可以在这里找到我以前的文章。[http://www.jianshu.com/u/351f85c16861](http://www.jianshu.com/u/351f85c16861)
 
+### 2017-11
+[动手实现一个AMD模块加载器(三)](https://github.com/huruji/blog/issues/17)
+
 ### 2017-10
 [使用Koa + mysql一小时搭建个人博客](https://github.com/huruji/blog/issues/11)
 
