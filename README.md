@@ -8,6 +8,8 @@
 
 [动手实现一个AMD模块加载器(二)](https://github.com/huruji/blog/issues/16)
 
+[动手实现一个AMD模块加载器(三)](https://github.com/huruji/blog/issues/17)
+
 [Node.js的进程process ](https://github.com/huruji/blog/issues/14)
 
 [Node.js开发多进程应用 ](https://github.com/huruji/blog/issues/15)
