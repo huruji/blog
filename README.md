@@ -5,11 +5,18 @@
 
 > ### 源码阅读计划
 
-1.模板引擎类
+> 下次计划art-template，欢迎监督
 
-[art-template](https://github.com/aui/art-template)
+> 1.模板引擎类
 
-[ejs](https://github.com/tj/ejs)
+> [] [aui/art-template](https://github.com/aui/art-template)
+
+> [] [tj/ejs](https://github.com/tj/ejs)
+
+
+> 2.React相关
+
+> [x] [reactjs/redux](https://github.com/reactjs/redux)
 
 ### 2017-11
 [动手实现一个AMD模块加载器(三)](https://github.com/huruji/blog/issues/17)
