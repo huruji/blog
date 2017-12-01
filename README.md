@@ -9,14 +9,12 @@
 
 1.模板引擎类
 
-[ ] [aui/art-template](https://github.com/aui/art-template)
-
-[ ] [tj/ejs](https://github.com/tj/ejs)
-
+- [ ] [aui/art-template](https://github.com/aui/art-template)
+- [ ] [tj/ejs](https://github.com/tj/ejs)
 
 2.React相关
 
-[x] [reactjs/redux](https://github.com/reactjs/redux)
+- [x] [reactjs/redux](https://github.com/reactjs/redux)
 
 ### 2017-11
 [动手实现一个AMD模块加载器(三)](https://github.com/huruji/blog/issues/17)
