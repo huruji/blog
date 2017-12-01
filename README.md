@@ -3,20 +3,20 @@
 
 > 如果你对我的博客文章感兴趣，或许你也会喜欢我以前写过的文章，你可以在这里找到我以前的文章。[http://www.jianshu.com/u/351f85c16861](http://www.jianshu.com/u/351f85c16861)
 
-> ### 源码阅读计划
+### 源码阅读计划
 
 > 下次计划art-template，欢迎监督
 
-> 1.模板引擎类
+1.模板引擎类
 
-> [] [aui/art-template](https://github.com/aui/art-template)
+[ ] [aui/art-template](https://github.com/aui/art-template)
 
-> [] [tj/ejs](https://github.com/tj/ejs)
+[ ] [tj/ejs](https://github.com/tj/ejs)
 
 
-> 2.React相关
+2.React相关
 
-> [x] [reactjs/redux](https://github.com/reactjs/redux)
+[x] [reactjs/redux](https://github.com/reactjs/redux)
 
 ### 2017-11
 [动手实现一个AMD模块加载器(三)](https://github.com/huruji/blog/issues/17)
