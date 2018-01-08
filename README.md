@@ -16,6 +16,9 @@
 
 - [x] [reactjs/redux](https://github.com/reactjs/redux)
 
+### 2018-01
+[Shell编程快速入门指南](https://github.com/huruji/blog/issues/18)
+
 ### 2017-11
 [动手实现一个AMD模块加载器(三)](https://github.com/huruji/blog/issues/17)
 
