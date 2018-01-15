@@ -19,6 +19,8 @@
 ### 2018-01
 [Shell编程快速入门指南](https://github.com/huruji/blog/issues/18)
 
+[Shell的字符串处理](https://github.com/huruji/blog/issues/19)
+
 ### 2017-11
 [动手实现一个AMD模块加载器(三)](https://github.com/huruji/blog/issues/17)
 
