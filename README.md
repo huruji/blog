@@ -16,6 +16,9 @@
 
 - [x] [reactjs/redux](https://github.com/reactjs/redux)
 
+### 2018-02
+[使用validator.js对字符串数据进行验证](https://github.com/huruji/blog/issues/20)
+
 ### 2018-01
 [Shell编程快速入门指南](https://github.com/huruji/blog/issues/18)
 
