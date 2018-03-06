@@ -20,6 +20,7 @@
 
 - [x] [welkinwong/nodercms](https://github.com/welkinwong/nodercms)，[nodercms项目源码阅读](https://github.com/huruji/blog/issues/22)
 
+- [x] [substack/node-mkdirp](https://github.com/substack/node-mkdirp)，[node-mkdirp项目源码阅读](https://github.com/huruji/blog/issues/23)
 
 ### 2018-02
 [使用validator.js对字符串数据进行验证](https://github.com/huruji/blog/issues/20)
