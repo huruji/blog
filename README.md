@@ -5,7 +5,7 @@
 
 ### 源码阅读计划
 
-> 下次计划art-template，欢迎监督
+> 计划赶不上变化，orz
 
 1.模板引擎类
 
@@ -15,6 +15,7 @@
 2.React相关
 
 - [x] [reactjs/redux](https://github.com/reactjs/redux)
+
 
 ### 2018-02
 [使用validator.js对字符串数据进行验证](https://github.com/huruji/blog/issues/20)
