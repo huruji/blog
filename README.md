@@ -22,6 +22,8 @@
 
 - [x] [substack/node-mkdirp](https://github.com/substack/node-mkdirp)，[node-mkdirp项目源码阅读](https://github.com/huruji/blog/issues/23)
 
+- [x] isaacs/pseudomap](https://github.com/isaacs/pseudomap)，[pseudomap项目源码阅读](https://github.com/huruji/blog/issues/24)
+
 ### 2018-02
 [使用validator.js对字符串数据进行验证](https://github.com/huruji/blog/issues/20)
 
