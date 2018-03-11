@@ -26,6 +26,8 @@
 
 - [x] [developit/resource-router-middleware](https://github.com/developit/resource-router-middleware)，[resource-router-middleware项目源码阅读](https://github.com/huruji/blog/issues/25)
 
+- [x] [expressjs/cookie-parser](https://github.com/expressjs/cookie-parser)，[cookie-parser项目源码阅读](https://github.com/huruji/blog/issues/27)
+
 
 ### 2018-02
 [使用validator.js对字符串数据进行验证](https://github.com/huruji/blog/issues/20)
