@@ -10,7 +10,7 @@
 1.模板引擎类
 
 - [ ] [aui/art-template](https://github.com/aui/art-template)
-- [ ] [tj/ejs](https://github.com/tj/ejs)
+- [x] [tj/ejs](https://github.com/tj/ejs)，[ejs项目源码阅读](https://github.com/huruji/blog/issues/28)
 
 2.React相关
 
