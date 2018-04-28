@@ -34,6 +34,7 @@
 ### 2018-04
 [for循环异步操作问题小结](https://github.com/huruji/blog/issues/29)
 
+[使用rails实现最简单的CRUD](https://github.com/huruji/blog/issues/33)
 
 
 ### 2018-02
