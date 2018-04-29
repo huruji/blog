@@ -36,6 +36,7 @@
 
 [使用rails实现最简单的CRUD](https://github.com/huruji/blog/issues/33)
 
+[Active Record基础](https://github.com/huruji/blog/issues/34)
 
 ### 2018-02
 [使用validator.js对字符串数据进行验证](https://github.com/huruji/blog/issues/20)
