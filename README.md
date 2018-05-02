@@ -31,6 +31,9 @@
 4.Vue相关
 - [x] [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) Vue全家桶入门级项目
 
+### 2018-05
+[Active Record 迁移](https://github.com/huruji/blog/issues/35)
+
 ### 2018-04
 [for循环异步操作问题小结](https://github.com/huruji/blog/issues/29)
 
