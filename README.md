@@ -34,6 +34,10 @@
 ### 2018-05
 [Active Record 迁移](https://github.com/huruji/blog/issues/35)
 
+[Active Record 数据验证](https://github.com/huruji/blog/issues/36)
+
+[Rails布局和视图渲染](https://github.com/huruji/blog/issues/37)
+
 ### 2018-04
 [for循环异步操作问题小结](https://github.com/huruji/blog/issues/29)
 
