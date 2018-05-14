@@ -38,6 +38,10 @@
 
 [Rails布局和视图渲染](https://github.com/huruji/blog/issues/37)
 
+[Rails路由](https://github.com/huruji/blog/issues/38)
+
+[一段柯里化函数代码阅读](https://github.com/huruji/blog/issues/39)
+
 ### 2018-04
 [for循环异步操作问题小结](https://github.com/huruji/blog/issues/29)
 
