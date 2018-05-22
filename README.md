@@ -42,6 +42,8 @@
 
 [一段柯里化函数代码阅读](https://github.com/huruji/blog/issues/39)
 
+[从ECMAscript标准文档看懂valueOf](https://github.com/huruji/blog/issues/40)
+
 ### 2018-04
 [for循环异步操作问题小结](https://github.com/huruji/blog/issues/29)
 
