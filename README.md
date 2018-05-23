@@ -44,6 +44,8 @@
 
 [从ECMAscript标准文档看懂valueOf](https://github.com/huruji/blog/issues/40)
 
+[Rollup初探](https://github.com/huruji/blog/issues/41)
+
 ### 2018-04
 [for循环异步操作问题小结](https://github.com/huruji/blog/issues/29)
 
