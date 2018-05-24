@@ -50,7 +50,11 @@
 
 <h3><a href="https://github.com/huruji/blog/issues/41">Rollup初探</a></h3>
 
-<p style="text-align:center"><img  width="100%" src="https://camo.githubusercontent.com/d4a290d0fda66130f70da41c4b9e017a068b4803/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d393930336263326439346331613864622e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" /></p>
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/41">
+  <img  width="100%" src="https://camo.githubusercontent.com/d4a290d0fda66130f70da41c4b9e017a068b4803/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d393930336263326439346331613864622e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" />
+  </a>
+</p>
 
 -----
 
@@ -58,14 +62,22 @@
 
 <h3><a href="https://github.com/huruji/blog/issues/40">从ECMAscript标准文档看懂valueOf</a></h3>
 
-<p style="text-align:center"><img  width="100%" src="https://camo.githubusercontent.com/9bbb81b74c35ebf4bcf8c375e74cdd7d28ff63c7/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d353665633135336463356130373230622e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" /></p>
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/40">
+  <img  width="100%" src="https://camo.githubusercontent.com/9bbb81b74c35ebf4bcf8c375e74cdd7d28ff63c7/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d353665633135336463356130373230622e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" />
+  </a>
+</p>
 
 -----
 
 
 <h3><a href="https://github.com/huruji/blog/issues/39">一段柯里化函数代码阅读</a></h3>
 
-<p style="text-align:center"><img  width="100%" src="https://user-images.githubusercontent.com/15937065/40008491-0531d4d6-57d2-11e8-9d61-a1d20f98f649.jpg" /></p>
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/39">
+  <img  width="100%" src="https://user-images.githubusercontent.com/15937065/40008491-0531d4d6-57d2-11e8-9d61-a1d20f98f649.jpg" />
+  </a>
+</p>
 
 -----
 
@@ -73,7 +85,11 @@
 
 <h3><a href="https://github.com/huruji/blog/issues/38">Rails路由</a></h3>
 
-<p style="text-align:center"><img  width="100%" src="https://camo.githubusercontent.com/809b556467c52bd28d04e4e7c176e06c89790ba9/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d313966643336343465623264633131392e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" /></p>
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/38">
+    <img  width="100%" src="https://camo.githubusercontent.com/809b556467c52bd28d04e4e7c176e06c89790ba9/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d313966643336343465623264633131392e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" />
+  </a>
+</p>
 
 -----
 
@@ -81,27 +97,37 @@
 
 <h3><a href="https://github.com/huruji/blog/issues/37">Rails布局和视图渲染</a></h3>
 
-<p style="text-align:center"><a><img  width="100%" src="https://camo.githubusercontent.com/545e83ffef266266ee9a9188572f05e5cc90572b/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d333861613831383535653432346233662e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" /></p>
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/37">
+    <img  width="100%" src="https://camo.githubusercontent.com/545e83ffef266266ee9a9188572f05e5cc90572b/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d333861613831383535653432346233662e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" />
+  </a>
+</p>
 
 -----
 
 
 
-[Active Record 迁移](https://github.com/huruji/blog/issues/35)
+<h3><a href="https://github.com/huruji/blog/issues/36">Active Record 数据验证</a></h3>
 
-[Active Record 数据验证](https://github.com/huruji/blog/issues/36)
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/36">
+    <img  width="100%" src="https://camo.githubusercontent.com/142d2f7875e3ef7e8530533d841dbae67c8e8424/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d643438333833643035616633383238642e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" />
+  </a>
+</p>
 
-[Rails布局和视图渲染](https://github.com/huruji/blog/issues/37)
-
-[Rails路由](https://github.com/huruji/blog/issues/38)
-
-[一段柯里化函数代码阅读](https://github.com/huruji/blog/issues/39)
-
-[从ECMAscript标准文档看懂valueOf](https://github.com/huruji/blog/issues/40)
-
-[Rollup初探](https://github.com/huruji/blog/issues/41)
+-----
 
 
+
+<h3><a href="https://github.com/huruji/blog/issues/35">Active Record 迁移</a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/35">
+    <img  width="100%" src="https://camo.githubusercontent.com/8d4a91e30c7c00fadc0811333bb68dbf289c32a4/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d333335633733363539356132376661352e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" />
+  </a>
+</p>
+
+-----
 
 ### 2018-04
 [for循环异步操作问题小结](https://github.com/huruji/blog/issues/29)
