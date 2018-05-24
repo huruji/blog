@@ -46,6 +46,8 @@
 
 [Rollup初探](https://github.com/huruji/blog/issues/41)
 
+[关于Babel 6的 loose mode](https://github.com/huruji/blog/issues/42)
+
 ### 2018-04
 [for循环异步操作问题小结](https://github.com/huruji/blog/issues/29)
 
