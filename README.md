@@ -1,6 +1,8 @@
 <h1 align="center">灰风GreyWind的技术部落格</h1
 > PS：灰风也叫忽如寄
 
+> 在这里将会记录我的源码分析历程、我的技术日志、我的生活感悟。
+
 > 如果你对我的博客文章感兴趣，或许你也会喜欢我以前写过的文章，你可以在这里找到我以前的文章。[http://www.jianshu.com/u/351f85c16861](http://www.jianshu.com/u/351f85c16861)
 
 ### 源码阅读计划
@@ -31,7 +33,17 @@
 4.Vue相关
 - [x] [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) Vue全家桶入门级项目
 
-### 2018-05
+
+
+<h2 align="center">2018-05</h2>
+
+------
+<p style="text-align:center"><img  width="100%" src="https://camo.githubusercontent.com/d01ca4e9c3e532ada4e435c3e83e2ef4b6444e6b/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d353566653036616261636361313462622e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" /></p>
+
+<h3><a href="https://github.com/huruji/blog/issues/42">关于Babel 6的 loose mode</a></h3>
+
+-----
+
 [Active Record 迁移](https://github.com/huruji/blog/issues/35)
 
 [Active Record 数据验证](https://github.com/huruji/blog/issues/36)
@@ -46,7 +58,7 @@
 
 [Rollup初探](https://github.com/huruji/blog/issues/41)
 
-[关于Babel 6的 loose mode](https://github.com/huruji/blog/issues/42)
+
 
 ### 2018-04
 [for循环异步操作问题小结](https://github.com/huruji/blog/issues/29)
