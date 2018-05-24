@@ -1,4 +1,4 @@
-# 灰风GreyWind的技术部落格
+<h1 align="center">灰风GreyWind的技术部落格</h1
 > PS：灰风也叫忽如寄
 
 > 如果你对我的博客文章感兴趣，或许你也会喜欢我以前写过的文章，你可以在这里找到我以前的文章。[http://www.jianshu.com/u/351f85c16861](http://www.jianshu.com/u/351f85c16861)
