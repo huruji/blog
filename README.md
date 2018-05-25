@@ -8,6 +8,7 @@
 #### 目录
 
 #### 2018-05
+- [一文带你了解babel-preset-env](#43)
 
 - [关于Babel 6的 loose mode](#42)
 
@@ -116,6 +117,20 @@
 
 
 <h2 align="center">2018-05</h2>
+
+
+<h3 id="43"><a href="https://github.com/huruji/blog/issues/43">一文带你了解babel-preset-env</a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/43">
+  <img  width="100%" src="https://camo.githubusercontent.com/226cb1e161cc13d622fa20d4a9de5208bb2ea73a/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d383865383162383834646537393534322e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" />
+  </a>
+</p>
+
+-----
+
+
+
 
 <h3 id="42"><a href="https://github.com/huruji/blog/issues/42">关于Babel 6的 loose mode</a></h3>
 
