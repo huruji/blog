@@ -7,6 +7,9 @@
 
 #### 目录
 
+#### 2018-08
+- [IOS下box-shadow的诡异bug的修复](#47)
+
 #### 2018-07
 - [D2-天猫超市Mobile Web的极致体验优化 - 学习笔记](#45)
 
@@ -123,6 +126,20 @@
 
 4.Vue相关
 - [x] [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) Vue全家桶入门级项目
+
+
+<h2 align="center">2018-08</h2>
+
+
+<h3 id="47"><a href="https://github.com/huruji/blog/issues/47">IOS下box-shadow的诡异bug的修复</a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/47">
+  <img  width="100%" src="https://camo.githubusercontent.com/e4ed9d36157360f10b9d1bafeeb118278a2b3c05/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d656230383536643761393931653135632e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" />
+  </a>
+</p>
+
+-----
 
 
 
