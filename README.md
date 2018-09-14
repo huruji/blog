@@ -7,6 +7,9 @@
 
 #### 目录
 
+#### 2018-09
+- [图像处理的滤镜算法](#50)
+
 #### 2018-08
 - [IOS下box-shadow的诡异bug的修复](#47)
 
@@ -127,6 +130,20 @@
 4.Vue相关
 - [x] [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) Vue全家桶入门级项目
 
+
+
+<h2 align="center">2018-09</h2>
+
+
+<h3 id="50"><a href="https://github.com/huruji/blog/issues/50">图像处理的滤镜算法 </a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/47">
+  <img  width="100%" src="https://user-images.githubusercontent.com/15937065/45564506-3a1ce980-b883-11e8-9a13-77ddc786730d.jpg" />
+  </a>
+</p>
+
+-----
 
 <h2 align="center">2018-08</h2>
 
