@@ -138,7 +138,7 @@
 <h3 id="50"><a href="https://github.com/huruji/blog/issues/50">图像处理的滤镜算法 </a></h3>
 
 <p style="text-align:center">
-  <a href="https://github.com/huruji/blog/issues/47">
+  <a href="https://github.com/huruji/blog/issues/50">
   <img  width="100%" src="https://user-images.githubusercontent.com/15937065/45564506-3a1ce980-b883-11e8-9a13-77ddc786730d.jpg" />
   </a>
 </p>
