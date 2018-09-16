@@ -10,6 +10,8 @@
 #### 2018-09
 - [图像处理的滤镜算法](#50)
 
+- [如何优雅地链式取值](#51)
+
 #### 2018-08
 - [IOS下box-shadow的诡异bug的修复](#47)
 
@@ -133,6 +135,14 @@
 
 
 <h2 align="center">2018-09</h2>
+
+<h3 id="51"><a href="https://github.com/huruji/blog/issues/50">如何优雅地链式取值 </a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/51">
+  <img  width="100%" src="https://user-images.githubusercontent.com/15937065/45597944-66ad3e80-ba06-11e8-8042-26d00e4d4d73.jpg" />
+  </a>
+</p>
 
 
 <h3 id="50"><a href="https://github.com/huruji/blog/issues/50">图像处理的滤镜算法 </a></h3>
