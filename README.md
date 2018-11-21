@@ -6,6 +6,12 @@
 > 如果你对我的博客文章感兴趣，或许你也会喜欢我以前写过的文章，你可以在这里找到我以前的文章。[http://www.jianshu.com/u/351f85c16861](http://www.jianshu.com/u/351f85c16861)
 
 #### 目录
+#### 2018-11
+- [如何编写一个babel插件 ](#55)
+
+- [webpack打包出来的文件都是啥](#54)
+
+- [minipack源码解析](#53)
 
 #### 2018-09
 
@@ -132,6 +138,37 @@
 
 4.Vue相关
 - [x] [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) Vue全家桶入门级项目
+
+
+<h2 align="center">2018-11</h2>
+
+<h3 id="55"><a href="https://github.com/huruji/blog/issues/55">如何编写一个babel插件 </a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/55">
+  <img  width="100%" src="https://user-images.githubusercontent.com/15937065/48671346-81fd0d00-eb61-11e8-8c32-da60d3bbe17a.jpg" />
+  </a>
+</p>
+
+
+<h3 id="54"><a href="https://github.com/huruji/blog/issues/54">webpack打包出来的文件都是啥</a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/54">
+  <img  width="100%" src="https://user-images.githubusercontent.com/15937065/48826125-79e0df80-eda4-11e8-9ca3-86ff654f5fac.jpg" />
+  </a>
+</p>
+
+
+<h3 id="53"><a href="https://github.com/huruji/blog/issues/53">minipack源码解析</a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/53">
+  <img  width="100%" src="https://user-images.githubusercontent.com/15937065/48826170-97ae4480-eda4-11e8-9185-504a2f3744a9.jpg" />
+  </a>
+</p>
+
+-----
 
 
 
