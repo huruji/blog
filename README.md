@@ -6,6 +6,10 @@
 > 如果你对我的博客文章感兴趣，或许你也会喜欢我以前写过的文章，你可以在这里找到我以前的文章。[http://www.jianshu.com/u/351f85c16861](http://www.jianshu.com/u/351f85c16861)
 
 #### 目录
+
+#### 2019-01
+- [Webpack 的 stats 、Compilation、compiler 对象里都有啥](#56)
+
 #### 2018-11
 - [如何编写一个babel插件 ](#55)
 
@@ -139,6 +143,16 @@
 4.Vue相关
 - [x] [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) Vue全家桶入门级项目
 
+
+<h2 align="center">2019-01</h2>
+
+<h3 id="56"><a href="https://github.com/huruji/blog/issues/56">Webpack 的 stats 、Compilation、compiler 对象里都有啥 </a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/56">
+  <img  width="100%" src="https://upload-images.jianshu.io/upload_images/1641380-5c2f42a03c9f0233.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" />
+  </a>
+</p>
 
 <h2 align="center">2018-11</h2>
 
