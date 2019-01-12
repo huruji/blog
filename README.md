@@ -8,6 +8,9 @@
 #### 目录
 
 #### 2019-01
+
+- [通过 Webpack 的 compiler 对象的 Hooks 学会编写 Webpack 插件的编写](#57)
+
 - [Webpack 的 stats 、Compilation、compiler 对象里都有啥](#56)
 
 #### 2018-11
@@ -145,6 +148,15 @@
 
 
 <h2 align="center">2019-01</h2>
+
+
+<h3 id="57"><a href="https://github.com/huruji/blog/issues/57">通过 Webpack 的 compiler 对象的 Hooks 学会编写 Webpack 插件的编写 </a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/57">
+  <img  width="100%" src="https://upload-images.jianshu.io/upload_images/1641380-7a53c2589896b578.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" />
+  </a>
+</p>
 
 <h3 id="56"><a href="https://github.com/huruji/blog/issues/56">Webpack 的 stats 、Compilation、compiler 对象里都有啥 </a></h3>
 
