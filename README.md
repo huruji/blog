@@ -9,6 +9,8 @@
 
 #### 2019-01
 
+- [如何让你的回调 Promise 化 ](#58)
+
 - [通过 Webpack 的 compiler 对象的 Hooks 学会编写 Webpack 插件的编写](#57)
 
 - [Webpack 的 stats 、Compilation、compiler 对象里都有啥](#56)
@@ -148,6 +150,14 @@
 
 
 <h2 align="center">2019-01</h2>
+
+<h3 id="58"><a href="https://github.com/huruji/blog/issues/58">如何让你的回调 Promise 化  </a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/58">
+  <img  width="100%" src="https://camo.githubusercontent.com/41ef57cf9b98e8d0d3a6b51134c1e4ae6722fb92/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634313338302d636130356261323762366436366632322e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" />
+  </a>
+</p>
 
 
 <h3 id="57"><a href="https://github.com/huruji/blog/issues/57">通过 Webpack 的 compiler 对象的 Hooks 学会编写 Webpack 插件的编写 </a></h3>
