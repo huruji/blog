@@ -7,6 +7,11 @@
 
 #### 目录
 
+#### 2019-02
+
+- [webpack 的 chunk ](#59)
+
+
 #### 2019-01
 
 - [如何让你的回调 Promise 化 ](#58)
@@ -147,6 +152,19 @@
 
 4.Vue相关
 - [x] [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) Vue全家桶入门级项目
+
+
+<h2 align="center">2019-02</h2>
+
+<h3 id="59"><a href="https://github.com/huruji/blog/issues/59">webpack 的 chunk </a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/59">
+  <img  width="100%" src="https://upload-images.jianshu.io/upload_images/1641380-7aa6bf46649ef6ac.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" />
+  </a>
+</p>
+
+
 
 
 <h2 align="center">2019-01</h2>
