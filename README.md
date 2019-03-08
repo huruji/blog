@@ -7,6 +7,10 @@
 
 #### 目录
 
+#### 2019-03
+
+- [async await 的错误处理 ](#61)
+
 #### 2019-02
 
 - [webpack 的 chunk ](#59)
@@ -152,6 +156,17 @@
 
 4.Vue相关
 - [x] [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) Vue全家桶入门级项目
+
+<h2 align="center">2019-03</h2>
+
+<h3 id="59"><a href="https://github.com/huruji/blog/issues/61">async await 的错误处理</a></h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/huruji/blog/issues/61">
+  <img  width="100%" src="https://img14.360buyimg.com/jrmarketingcloud/jfs/t1/27599/30/9990/377761/5c8207c7Ed034d840/ccafbf0e8e8fac59.jpg" />
+  </a>
+</p>
+
 
 
 <h2 align="center">2019-02</h2>
