@@ -159,7 +159,7 @@
 
 <h2 align="center">2019-03</h2>
 
-<h3 id="59"><a href="https://github.com/huruji/blog/issues/61">async await 的错误处理</a></h3>
+<h3 id="61"><a href="https://github.com/huruji/blog/issues/61">async await 的错误处理</a></h3>
 
 <p style="text-align:center">
   <a href="https://github.com/huruji/blog/issues/61">
